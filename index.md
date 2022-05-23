@@ -1,37 +1,19 @@
 # About
 
-You can use the [editor on GitHub](https://github.com/drakecl/drakecl.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="211202nmVUPhysics_1040.jpg" width="250" height="300">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! My name is Carolyn Drake and I am currently a second year graduate student in the Astronomy and Physics department at Vanderbilt University working under Jessie Runnoe. Originally from outside Houston, I went to Whitman College in Washington for my undergraduate degree. I set up this little website as a quick and easy way to get to know about me and what I do. There is also contact info at the bottom if you need to reach me about a specific question not covered here. Thanks for stopping by!
 
 ## Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Working towards coordinating electromagnetic (EM) follow up for future LISA detections by preforming prelimanry censuses of LISA type error volumes using current large area astronomical surveys.
 
 ## Hobbies
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drakecl/drakecl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Outside of work, my main hobbies include baking, movies (some of my favorites being: [When Harry Met Sally](https://www.imdb.com/title/tt0098635/), [Rear Window](https://www.imdb.com/title/tt0047396/?ref_=fn_al_tt_1), [Clue](https://www.imdb.com/title/tt0088930/?ref_=fn_al_tt_1), and [After Yang](https://www.imdb.com/title/tt8633464/?ref_=fn_al_tt_1)).
+
+
 
 ### Contact
 
-Feel free to use carolyn.drake@vanderbilt.edu to contact me with any and all questions about the work that I do!
+Feel free to reach out using carolyn.drake@vanderbilt.edu with any and all questions about the work that I do!
