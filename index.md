@@ -16,7 +16,6 @@ Outside of work, my main hobbies include baking, movies (some of my favorites be
   <img src="blueberry pie.jpg" width="200" />
   <img src="key lime pie.jpg" width="200" /> 
   <img src="chess pie.jpg" width="200" />
-  <img src="birthday cake.jpg" width="200" />
 </p>
 
 <p float="left">
