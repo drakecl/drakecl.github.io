@@ -13,9 +13,9 @@ Working towards coordinating electromagnetic (EM) follow up for future LISA dete
 Outside of work, my main hobbies include baking, movies (some of my favorites being: [When Harry Met Sally](https://www.imdb.com/title/tt0098635/), [Rear Window](https://www.imdb.com/title/tt0047396/?ref_=fn_al_tt_1), [Clue](https://www.imdb.com/title/tt0088930/?ref_=fn_al_tt_1), and [After Yang](https://www.imdb.com/title/tt8633464/?ref_=fn_al_tt_1)).
 
 <p float="left">
-  <img src="blueberry pie.jpg" width="100" />
-  <img src="key lime pie.jpg" width="100" /> 
-  <img src="chess pie.jpg" width="100" />
+  <img src="blueberry pie.jpg" width="200" />
+  <img src="key lime pie.jpg" width="200" /> 
+  <img src="chess pie.jpg" width="200" />
 </p>
 
 <p float="left">
