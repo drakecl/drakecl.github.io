@@ -10,7 +10,7 @@ Working towards coordinating electromagnetic (EM) follow up for future LISA dete
 
 ## Hobbies
 
-Outside of work, my main hobbies include baking, movies (some of my favorites being: [When Harry Met Sally](https://www.imdb.com/title/tt0098635/), [Rear Window](https://www.imdb.com/title/tt0047396/?ref_=fn_al_tt_1), [Clue](https://www.imdb.com/title/tt0088930/?ref_=fn_al_tt_1), and [After Yang](https://www.imdb.com/title/tt8633464/?ref_=fn_al_tt_1)).
+Outside of work, my main hobbies include baking, movies (some of my favorites being: [When Harry Met Sally](https://www.imdb.com/title/tt0098635/), [Rear Window](https://www.imdb.com/title/tt0047396/?ref_=fn_al_tt_1), [Clue](https://www.imdb.com/title/tt0088930/?ref_=fn_al_tt_1), and [After Yang](https://www.imdb.com/title/tt8633464/?ref_=fn_al_tt_1)) and photography. Some photos I've taken and pies I've baked can be seen below! :)
 
 <p float="left">
   <img src="blueberry pie.jpg" width="200" />
