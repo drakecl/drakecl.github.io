@@ -1,7 +1,5 @@
 # About
 
-<img src="211202nmVUPhysics_1040.jpg" width="250" height="300">
-
 Hi! My name is Carolyn Drake and I am currently a fifth year graduate student in the Physics and Astronomy department at Vanderbilt University working under Dr. Jessie Runnoe. Originally from outside Houston, I attended Whitman College in Walla Walla, Washington for my undergraduate degree. There is contact info at the bottom of the page if you would like to reach me about a specific question or are interested in any of the work I do and would like to chat! 
 
 ## Research
