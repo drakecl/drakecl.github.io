@@ -2,6 +2,8 @@
 
 Hi! My name is Carolyn Drake and I am currently a fifth year graduate student in the Physics and Astronomy department at Vanderbilt University working under Dr. Jessie Runnoe. Originally from outside Houston, I attended Whitman College in Walla Walla, Washington for my undergraduate degree. There is contact info at the bottom of the page if you would like to reach me about a specific question or are interested in any of the work I do and would like to chat! 
 
+[Link to another page](./hobbies.html)
+
 ## Research
 
 Prefromimg pleminary anaylsis towards coordinating Laser Interferometer Space Antenna (LISA) gravitational wave (GW) detections with their electromagnetic (EM) signal counterparts by comparing simulated LISA system parameter estimations with photometrically observed galaxies in large area sky surveys.
