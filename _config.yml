@@ -4,4 +4,4 @@ plugins:
 title: Carolyn Drake
 logo: 211202nmVUPhysics_1040.jpg
 description: Webpage for Carolyn Drake, an Astrophysics PhD Student at Vanderbilt Univeristy
-page: (./hobbies.html)
+page: [Hobbies] (./hobbies.html)
