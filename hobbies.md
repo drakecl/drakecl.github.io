@@ -9,7 +9,6 @@ And here are some photos I've taken and pies I've baked! :)
 <p float="left">
   <img src="blueberry pie.jpg" width="200" />
   <img src="key lime pie.jpg" width="200" /> 
-  <img src="chess pie.jpg" width="200" />
 </p>
 
 <p float="left">
