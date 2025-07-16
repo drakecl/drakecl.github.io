@@ -1,6 +1,10 @@
 ## Hobbies
 
-Outside of work, my main hobbies include baking, movies (some of my favorites being: [When Harry Met Sally](https://www.imdb.com/title/tt0098635/), [Rear Window](https://www.imdb.com/title/tt0047396/?ref_=fn_al_tt_1), [Clue](https://www.imdb.com/title/tt0088930/?ref_=fn_al_tt_1)), photography, and knitting and crocheting. Below are some photos I've taken and pies I've baked! :)
+Outside of work, my main hobbies include baking, movies (some of my favorites being: [When Harry Met Sally](https://www.imdb.com/title/tt0098635/), [Rear Window](https://www.imdb.com/title/tt0047396/?ref_=fn_al_tt_1), [Clue](https://www.imdb.com/title/tt0088930/?ref_=fn_al_tt_1)), photography, and knitting and crocheting. 
+
+Feel free to follow me on my [Letterboxd](https://letterboxd.com/carrotsick/) if you'd like to connect over movies or on my [Ravelry](https://www.ravelry.com/people/carrotsick) if you're also a fiber artist! 
+
+And here are some photos I've taken and pies I've baked! :)
 
 <p float="left">
   <img src="blueberry pie.jpg" width="200" />
