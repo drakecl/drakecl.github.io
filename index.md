@@ -11,7 +11,7 @@ Prefromimg pleminary anaylsis towards coordinating Laser Interferometer Space An
 ## Papers
 
 <b>Carolyn L. Drake</b>, J. Runnoe, et. al., "Preliminary Census of LISA-type Error Volumes using SDSS Photo-
-metery", in prep, expected Dec 2024
+metery", in prep, expected Fall 2025
 
 Daniel A. Dale and Kristin R. Anderson and Louis M. Bran and Isaiah S. Cox and <b>Carolyn L. Drake</b> and
 Nathan J. Lee and Jacob D. Pilawa and F. Alexander Slane and Susana Soto and Emily I. Jensen and Jessica
