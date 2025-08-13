@@ -15,4 +15,8 @@ Nathan J. Lee and Jacob D. Pilawa and F. Alexander Slane and Susana Soto and Emi
 S. Sutter and Jordan A. Turner and Henry A. Kobulnicky, 2020, "Radial Star Formation Histories in 32 Nearby
 Galaxies", AJ, 159, 5
 
-Feel free to refer to my [ORCiD](https://orcid.org/0009-0006-1022-5627).
+Feel free to refer to my [ORCiD](https://orcid.org/0009-0006-1022-5627) for more details and links to publications.
+
+## Outreach
+
+
