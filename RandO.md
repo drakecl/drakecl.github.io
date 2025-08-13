@@ -25,7 +25,7 @@ Recently, I was able to provide my love of improv with my love of science and pr
 
 
 <p float="left">
-  <img src="ist_presenting_photo.jpeg" width="200" />
-  <img src="ist_group_photo.jpeg" width="200" /> 
+  <img src="ist_presenting_photo.jpeg" width="400" />
+  <img src="ist_group_photo.jpeg" width="400" /> 
 </p>
 
