@@ -19,4 +19,13 @@ Feel free to refer to my [ORCiD](https://orcid.org/0009-0006-1022-5627) for more
 
 ## Outreach
 
+I love sharing the knowledge and education I've had the privlege to gain over the years with as many people as possible. As someone who's interest in Astronomy began through public outreach (the movie Interstellar and a fateful NPR segment), I personally know the importance of outreach events and how transformative they can be for anyone. In the past, I've been involved with the Star Parties events run through Texas A&M University, volunteered at Meet the Astronomer Nights through Dyer Observatory, and even helped to found a Women in STEM club at my undergraduate institution. 
+
+Recently, I was able to provide my love of improv with my love of science and present at an Improv Science Theater show at Third Coast Comedy Club, seen below!
+
+
+<p float="left">
+  <img src="ist_presenting_photo.jpeg" width="200" />
+  <img src="ist_group_photo.jpeg" width="200" /> 
+</p>
 
